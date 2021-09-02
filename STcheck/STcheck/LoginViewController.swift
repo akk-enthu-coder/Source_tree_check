@@ -14,3 +14,7 @@ This is to check SourceTree
 
 and second try now s
 
+
+
+now doing it with the
+terminal 
