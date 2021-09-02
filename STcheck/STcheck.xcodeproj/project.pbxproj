@@ -14,6 +14,7 @@
 		0CF7760226E11731001BBE13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CF7760126E11731001BBE13 /* Assets.xcassets */; };
 		0CF7760526E11731001BBE13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CF7760326E11731001BBE13 /* LaunchScreen.storyboard */; };
 		0CF7760D26E1174F001BBE13 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7760C26E1174F001BBE13 /* LoginViewController.swift */; };
+		0CF7760F26E128AF001BBE13 /* akkSTCHECK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7760E26E128AF001BBE13 /* akkSTCHECK.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0CF7760426E11731001BBE13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0CF7760626E11731001BBE13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CF7760C26E1174F001BBE13 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0CF7760E26E128AF001BBE13 /* akkSTCHECK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = akkSTCHECK.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		0CF775EC26E1172D001BBE13 = {
 			isa = PBXGroup;
 			children = (
+				0CF7760E26E128AF001BBE13 /* akkSTCHECK.swift */,
 				0CF775F726E1172D001BBE13 /* STcheck */,
 				0CF775F626E1172D001BBE13 /* Products */,
 			);
@@ -143,6 +146,7 @@
 				0CF7760D26E1174F001BBE13 /* LoginViewController.swift in Sources */,
 				0CF775FD26E1172D001BBE13 /* ViewController.swift in Sources */,
 				0CF775F926E1172D001BBE13 /* AppDelegate.swift in Sources */,
+				0CF7760F26E128AF001BBE13 /* akkSTCHECK.swift in Sources */,
 				0CF775FB26E1172D001BBE13 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
